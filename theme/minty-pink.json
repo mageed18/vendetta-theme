@@ -1,10 +1,12 @@
 {
-    "name": "MintY Green",
-    "description": "Inspired from Linux Mint-Y themes. Light and Dark. With Themes+ support.",
+    "name": "MintY Pink",
+    "description": "Edited 'MintY Green by panniku' to pink colors",
     "authors": [
         {
             "name": "panniku",
             "id": "703634705152606318"
+            "edited by": "mageed."
+            "id": "1037741175681069129"
         }
     ],
     "semanticColors": {
